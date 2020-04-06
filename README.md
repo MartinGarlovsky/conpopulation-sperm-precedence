@@ -1,6 +1,6 @@
 # Within-population sperm competition intensity does not predict conpopulation sperm precedence
 
-This repository contains scripts to perform anaylses for Garlovsky et al. (2020) "Within-population sperm competition intensity does not predict conpopulation sperm precedence". Supplementary analyses, figures S1-S10 and tables S1-S2 are in [CSP-analysis.pdf](https://github.com/MartinGarlovsky/montana_CpSP/blob/master/CSP-analysis.pdf).
+This repository contains scripts to perform anaylses for Garlovsky et al. (2020) "Within-population sperm competition intensity does not predict conpopulation sperm precedence". Supplementary analyses, figures and tables are in [CSP-analysis.pdf](https://github.com/MartinGarlovsky/montana_CpSP/blob/master/CSP-analysis.pdf).
 
 ## Demographic modelling
 Demographic modelling was performed using poolseq [data](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA312336) from [Parker et al. (2018)](https://doi.org/10.1093/gbe/evy147). Scripts to perform analyses can be found [here](https://github.com/LeebanY/D.montana_PoolSeq_DemoHistory).
