@@ -9,7 +9,7 @@ Demographic modelling was performed using poolseq [data](https://www.ncbi.nlm.ni
 The data to perform analyses can be found [here](). Separate R scripts to perform analysis can be found [here]().
 
 ### R scripts:
-* 0.montana_map.R     :Draw map with locations of D. montana populations. 
+* 0.montana_map.R     :Draw map with locations of *D. montana* populations. 
 
 * 1.pop_gen.R         :Statistical analysis for within-population genetic diversity. 
 
