@@ -6,8 +6,8 @@ This repository contains information to perform anaylses for Garlovsky, M. D., L
 ## Demographic modelling
 Demographic modelling was performed using poolseq [data](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA312336) from [Parker et al. (2018)](https://doi.org/10.1093/gbe/evy147). Scripts to perform analyses can be found [here](https://github.com/LeebanY/D.montana_PoolSeq_DemoHistory).
 
-## Postmating prezygotic reproductive isolation and proxies of sperm competition intensity.
-An R project containing all data and scripts to perform analyses can be found [here](https://github.com/MartinGarlovsky/conpopulation-sperm-precedence/blob/master/Garlovsky_et.al.2020.zip). Data has also been deposited on [Dryad](link).
+## Postmating prezygotic reproductive isolation and proxies measuring the intensity of sperm competition.
+Data has been deposited on [Dryad](link). A [.zip](https://github.com/MartinGarlovsky/conpopulation-sperm-precedence/blob/master/Garlovsky_et.al.2020.zip) containing an R project provides all data and scripts to perform analyses. 
 
 ### R scripts:
 * 0.montana_map.R     :Draw map with locations of *D. montana* populations. 
